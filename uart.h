@@ -1,3 +1,15 @@
+//******************************************************************************
+//                   
+//                           UART Hardfware Macro Define
+//  Description: original Author: Nicholas J. Conn edit by Le Hung
+//      http://mculearning.wordpress.com
+//      http://www.msp430launchpad.com/2010/08/half-duplex-software-uart-on-launchpad.html
+//  Project Name :         UART Hardfware 
+//  Note : 
+//  Created day : 23/01/2016                               By : Lê Hùng
+//  Last fixed :  23/03/2016                               By : Lê Hùng
+//  Email: lehungmt94@gmail.com
+//*******************************************************************************
 #define USCI_INPUT_CLK      (1000000)  // in Hz
 #define USCI_BAUD_RATE      (9600)
 
