@@ -4,10 +4,10 @@
 //  Description: original Author: Nicholas J. Conn edit by Le Hung
 //      http://mculearning.wordpress.com
 //      http://www.msp430launchpad.com/2010/08/half-duplex-software-uart-on-launchpad.html
-//  Project Name :        Giam sat luong mua
+//  Project Name :         UART Software
 //  Note : TXD on P1.5,  RXD on P1.6
-//  Created day : 23/06/2016                               By : Lê Hùng
-//  Last fixed :  23/06/2016                               By : Lê Hùng
+//  Created day : 23/06/2016                               By : LÃª HÃ¹ng
+//  Last fixed :  23/06/2016                               By : LÃª HÃ¹ng
 //  Email: lehungmt94@gmail.com
 //*******************************************************************************
 
